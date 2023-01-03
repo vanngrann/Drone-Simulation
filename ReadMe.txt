@@ -1,11 +1,25 @@
 ========================================================================
-    CONSOLE APPLICATION : CrowdSim Project Overview
+    CONSOLE APPLICATION : Drone Simulation Project Overview
 ========================================================================
 
-AppWizard has created this CrowdSim application for you.
+This project demonstrates a simplified 3D simulation of how a delivery truck and drone would work in unision to help deliver packages to different addresses. The environment is created in a 3D space using C++ and openGL. 
+
+Red Cube simulates a delivery truck
+
+Blue Sphere simulates a delivery drone
+
+Green Squares simulate grass
+
+Grey squares simulate street
+
+Brown boxes simulate a house
+
+Blue lines simulate the path in which the Delivery truck and drone are traveling on
+
+Currently, there is no collision or spacial awareness for the drone.
 
 This file contains a summary of what you will find in each of the files that
-make up your CrowdSim application.
+make up your Drone application.
 
 
 CrowdSim.vcxproj
